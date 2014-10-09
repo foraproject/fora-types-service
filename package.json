@@ -1,17 +1,16 @@
 {
     "author": "Jeswin Kumar <jeswinpk@agilehead.com>",
     "name": "fora-types-service",
-    "version": "0.9.2",
+    "version": "0.9.3",
     "description": "Data Type Service for the Fora Project.",
     "repository": {
         "type": "git",
         "url": "https://github.com/jeswin/fora-types-service.git"
     },
-    "main": "lib/fora-types-service",
     "dependencies": {
-        "fora-models": "*"
+        "fora-data-utils": "*"
     },
-    "devDependencies": {},
+    "main": "lib/fora-types-service",
     "engines": { "node": ">= 0.11.9" },
     "keywords": ["fora", "data types"],
     "license" : "GPL-3.0+"
