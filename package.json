@@ -1,7 +1,7 @@
 {
     "author": "Jeswin Kumar <jeswinpk@agilehead.com>",
     "name": "fora-types-service",
-    "version": "0.9.3",
+    "version": "0.9.10",
     "description": "Data Type Service for the Fora Project.",
     "repository": {
         "type": "git",
